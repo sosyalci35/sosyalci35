@@ -10,3 +10,15 @@ ts.cdn.bg/bnt1/fls/bntHD_abr.stream/at=O0M9MTQ2LjcwLjI0NS4xNTI7RT0xNzcxMTI4MjEwO
 
 #EXTINF:-1 
 ts.cdn.bg/bnt1/fls/bntW.stream/at=O0M9MTQ2LjcwLjI0NS4xNTI7RT0xNzcxMTI4MjUyO0E9MTtLPTM7UD0wMTExMDtTPTBkN2Q4NzJhNTQ4MDhkMjk3MDk0ZDY4NWZhMDZiOGUwYzJiODFkMDI=/chunklist.m3u8
+
+#EXTINF:-1
+https://e111-ts.cdn.bg/ntv/fls/ntv_2.stream/at=O0M9MTQ2LjcwLjI0NS4xNTI7RT0xNzcxMTI4NDY3O0E9MTtLPTM7UD0wMTExMDtTPWI1YzU0ZGVjYjJiYThkZjExZGI3NWZlY2U4MTc0MmUyNDNhZmRiN2I=/chunklist.m3u8
+
+#EXTINF:-1
+https://e112-ts.cdn.bg/mnet/fls/bonair.stream/at=O0M9MTQ2LjcwLjI0NS4xNTI7RT0xNzcxMTI4NTc3O0E9MTtLPTM7UD0wMTExMDtTPTAzM2NmYjZkYTI3OTAzYTExNjVjZWExYWRiODlkNjQ2ZTJkMTRjMWU=/chunklist.m3u8
+
+#EXTINF:-1
+https://tv1.cloudcdn.bg/temp/livestream-720p.m3u8
+
+#EXTINF:-1
+ts.cdn.bg/euronews/fls/euronews.stream/at=O0M9MTQ2LjcwLjI0NS4xNTI7RT0xNzcxMTI5MTc2O0E9MTtLPTM7UD0wMTExMDtTPTBhZTU0OGQ3OWQ5NTRjZGZmNTU2ZmUwNjI1MmNlYzA0Mjk3NTMzYjk=/chunklist.m3u8
