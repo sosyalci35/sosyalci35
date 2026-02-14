@@ -22,3 +22,18 @@ https://tv1.cloudcdn.bg/temp/livestream-720p.m3u8
 
 #EXTINF:-1
 ts.cdn.bg/euronews/fls/euronews.stream/at=O0M9MTQ2LjcwLjI0NS4xNTI7RT0xNzcxMTI5MTc2O0E9MTtLPTM7UD0wMTExMDtTPTBhZTU0OGQ3OWQ5NTRjZGZmNTU2ZmUwNjI1MmNlYzA0Mjk3NTMzYjk=/chunklist.m3u8
+
+#EXTINF:-1
+https://edge01.tbs.nucast.tv/gpb-1tv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1
+https://edge01.tbs.nucast.tv/gpb-2tv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1
+https://tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1
+https://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1
+https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8?nimblesessionid=765331704
